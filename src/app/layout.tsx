@@ -16,7 +16,7 @@ const cormorant = Cormorant_Garamond({
 });
 
 export const metadata: Metadata = {
-  title: "Pahrump NV Real Estate | Marci Metzger | The Ridge Realty Group",
+  title: " Marci Metzger | Pahrump Realtor",
   description: "Expert Pahrump NV real estate agent with 30+ years experience. Specializing in Southern Nevada homes, land, and commercial properties. Contact Marci Metzger for trusted real estate services.",
   keywords: "Pahrump real estate, Nevada homes for sale, Southern Nevada realtor, Pahrump NV homes, land for sale Pahrump, commercial real estate Nevada, Marci Metzger, The Ridge Realty Group",
   authors: [{ name: "Marci Metzger" }],
