@@ -6,7 +6,7 @@ export default function HeroSection() {
       {/* Background Image */}
       <Image
         src="/background.png"
-        alt="The Ridge Realty Group Luxury Real Estate"
+        alt="Pahrump NV Real Estate - Luxury Homes with Mountain Views"
         fill
         priority
         className="object-cover opacity-50"

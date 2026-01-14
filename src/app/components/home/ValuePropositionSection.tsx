@@ -20,7 +20,7 @@ export default function ValuePropositionSection() {
           <div className="group relative aspect-[4/5] overflow-hidden bg-[#161616]">
             <Image
               src="/val-prop-1.png"
-              alt="Top Sales Performance"
+              alt="Top Pahrump Real Estate Sales Performance - Luxury Property Expert"
               fill
               className="object-cover opacity-70 md:opacity-80 md:group-hover:opacity-50 md:group-hover:scale-105 transition-all duration-700 ease-in-out"
             />
@@ -45,7 +45,7 @@ export default function ValuePropositionSection() {
           <div className="group relative aspect-[4/5] overflow-hidden bg-[#161616]">
             <Image
               src="/val-prop-2.png"
-              alt="Get It Sold Strategy"
+              alt="Pahrump Home Selling Strategy - Fast Property Sales"
               fill
               className="object-cover opacity-70 md:opacity-80 md:group-hover:opacity-50 md:group-hover:scale-105 transition-all duration-700 ease-in-out"
             />
@@ -69,7 +69,7 @@ export default function ValuePropositionSection() {
           <div className="group relative aspect-[4/5] overflow-hidden bg-[#161616]">
             <Image
               src="/val-prop-3.png"
-              alt="Expert Buyer Guidance"
+              alt="Expert Pahrump Real Estate Buyer Guidance - Nevada Property Specialist"
               fill
               className="object-cover opacity-70 md:opacity-80 md:group-hover:opacity-50 md:group-hover:scale-105 transition-all duration-700 ease-in-out"
             />

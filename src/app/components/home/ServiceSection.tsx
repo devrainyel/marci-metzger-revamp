@@ -52,7 +52,13 @@ export default function ServiceSection() {
                 <div className="relative aspect-[4/3] overflow-hidden bg-[#161616]">
                   <Image
                     src={service.image}
-                    alt={service.title}
+                    alt={
+                      index === 0 
+                        ? "Pahrump NV Residential Real Estate Services - Home Buying Selling"
+                        : index === 1 
+                        ? "Pahrump NV Commercial Real Estate Services - Business Properties"
+                        : "Expert Pahrump Real Estate Guidance - Property Investment Services"
+                    }
                     fill
                     className="object-cover opacity-90 group-hover:opacity-100 group-hover:scale-105 transition-all duration-700"
                   />

@@ -5,13 +5,13 @@ export default function ContactSection() {
         <section className="py-24 bg-[#F5F5F4] border-t border-[#161616]/5" id="contact">
             <div className="container mx-auto px-6">
                 {/* Header */}
-                  <div className="text-center mb-16 md:mb-20">
-          <h2 className="text-sm uppercase tracking-[0.4em] text-gray-700 font-bold mb-4">Get In Touch</h2>
-          <h3 className="text-4xl md:text-5xl font-bold text-[#161616] mb-6 tracking-tight uppercase">Contact</h3>
-        </div>
+                <div className="text-center mb-16 md:mb-20">
+                    <h2 className="text-sm uppercase tracking-[0.4em] text-gray-700 font-bold mb-4">Get In Touch</h2>
+                    <h3 className="text-4xl md:text-5xl font-bold text-[#161616] mb-6 tracking-tight uppercase">Contact</h3>
+                </div>
 
                 <div className="grid grid-cols-1 lg:grid-cols-12 gap-0 border-t border-l border-[#161616]/10">
-                    
+
                     {/* Column 1: Contact Info & Hours (5/12 width) */}
                     <div className="lg:col-span-5 border-r border-b border-[#161616]/10 p-10 md:p-16">
                         <div className="space-y-12">
@@ -77,7 +77,7 @@ export default function ContactSection() {
                                     <input type="email" className="w-full bg-white border border-[#161616]/10 p-4 focus:outline-none focus:border-[#161616] transition-colors" placeholder="john@example.com" />
                                 </div>
                             </div>
-                            
+
                             <div className="space-y-2">
                                 <label className="text-[10px] font-bold uppercase tracking-widest text-gray-500 ml-1">Property Interest</label>
                                 <select className="w-full bg-white border border-[#161616]/10 p-4 focus:outline-none focus:border-[#161616] transition-colors appearance-none">

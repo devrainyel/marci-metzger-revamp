@@ -24,7 +24,7 @@ export default function AboutSection() {
                         <div className="relative z-10 aspect-[4/5] overflow-hidden">
                             <Image
                                 src="/marci-metzger.png"
-                                alt="Marci Metzger"
+                                alt="Marci Metzger - Pahrump NV Real Estate Broker with 30+ Years Experience"
                                 fill
                                 className="object-cover transition-transform duration-700 group-hover:scale-105"
                             />
