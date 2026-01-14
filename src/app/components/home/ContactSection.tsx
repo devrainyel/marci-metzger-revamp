@@ -93,7 +93,7 @@ export default function ContactSection() {
                                 <textarea rows={5} className="w-full bg-white border border-[#161616]/10 p-4 focus:outline-none focus:border-[#161616] transition-colors" placeholder="Tell us about your real estate goals..."></textarea>
                             </div>
 
-                            <button className="w-full bg-[#161616] text-white text-[11px] font-bold uppercase tracking-[0.3em] py-5 hover:bg-gray-800 transition-all duration-300 shadow-xl">
+                            <button className="w-full bg-[#161616] text-white text-[11px] font-bold uppercase tracking-[0.3em] py-5 hover:bg-black/85 transition-all duration-300 shadow-xl">
                                 Send Message
                             </button>
                         </form>

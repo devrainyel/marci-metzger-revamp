@@ -35,7 +35,7 @@ export default function AboutSection() {
 
                     {/* Bio Content */}
                     <div className="flex flex-col">
-                        <span className="text-xs font-mono text-gray-500 mb-4 uppercase tracking-[0.3em]">Principal Broker</span>
+                        <span className="text-xs font-mono text-gray-500 mb-4 uppercase tracking-[0.3em]">Licensed Broker</span>
                         <h1 className="text-5xl lg:text-6xl font-bold text-[#161616] mb-4 tracking-tighter uppercase">
                             Marci Metzger
                         </h1>
