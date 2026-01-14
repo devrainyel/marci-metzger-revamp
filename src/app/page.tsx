@@ -8,6 +8,7 @@ import SocialsSection from "./components/home/SocialsSection";
 import ContactSection from "./components/home/ContactSection";
 import ContactMap from "./components/home/ContactMap"
 
+
 export default function Home() {
   return (
     <main>

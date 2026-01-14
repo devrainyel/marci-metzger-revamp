@@ -6,11 +6,8 @@ export default function ContactSection() {
             <div className="container mx-auto px-6">
                 {/* Header */}
                   <div className="text-center mb-16 md:mb-20">
-          <h2 className="text-sm uppercase tracking-[0.4em] text-gray-700 font-bold mb-4">The Ridge Advantage</h2>
-          <h3 className="text-4xl md:text-5xl font-bold text-[#161616] mb-6 tracking-tight uppercase">Why Choose The Ridge Realty Group</h3>
-          <p className="text-lg text-gray-700 max-w-2xl mx-auto leading-relaxed">
-            We don't just sell homes—we deliver results that exceed expectations
-          </p>
+          <h2 className="text-sm uppercase tracking-[0.4em] text-gray-700 font-bold mb-4">Get In Touch</h2>
+          <h3 className="text-4xl md:text-5xl font-bold text-[#161616] mb-6 tracking-tight uppercase">Contact</h3>
         </div>
 
                 <div className="grid grid-cols-1 lg:grid-cols-12 gap-0 border-t border-l border-[#161616]/10">
